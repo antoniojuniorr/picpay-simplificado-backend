@@ -5,6 +5,8 @@
 
 Projeto elaborado com a solução desenvolvida uma versão simplificada do PicPay.
 
+Foi utilizado a abordagem para dividir os packages por domínio. 
+
 ## Tecnologias
 
 - [Spring Boot](https://spring.io/projects/spring-boot)
